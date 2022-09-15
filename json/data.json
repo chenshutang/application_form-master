@@ -1,0 +1,220 @@
+[
+    {
+        "id": "job",
+        "itemName": "应聘岗位",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputJob"
+    },
+    {
+        "id": "fillFormDate",
+        "itemName": "填表日期",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 1,
+        "childElementClass": "iconfont icon-jiantou-down",
+        "childElementId": "inputAddFromDate"
+    },
+    {
+        "id": "name",
+        "itemName": "姓名",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputName"
+    },
+    {
+        "id": "sex",
+        "itemName": "性别",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 1,
+        "childElementClass": "iconfont icon-jiantou-down",
+        "childElementId": "inputSex"
+    },
+    {
+        "id": "birthDate",
+        "itemName": "出生日期",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 1,
+        "childElementClass": "iconfont icon-jiantou-down",
+        "childElementId": "inputBirthDate"
+    },
+    {
+        "id": "race",
+        "itemName": "民族",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputRace"
+    },
+    {
+        "id": "politicalFace",
+        "itemName": "政治面貌",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputPoliticalFace"
+    },
+    {
+        "id": "isMarried",
+        "itemName": "婚否",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 1,
+        "childElementClass": "iconfont icon-jiantou-down",
+        "childElementId": "inputIsMarried"
+    },
+    {
+        "id": "health",
+        "itemName": "健康状况",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputHealth"
+    },
+    {
+        "id": "birthPlace",
+        "itemName": "籍贯(省、市)",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputBirthPlace"
+    },
+    {
+        "id": "phone",
+        "itemName": "联系方式",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputPhone"
+    },
+    {
+        "id": "email",
+        "itemName": "电子邮箱",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputEmail"
+    },
+    {
+        "id": "educationBackground",
+        "itemName": "学历",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputEducationBackground"
+    },
+    {
+        "id": "location",
+        "itemName": "现住地",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputLocation"
+    },
+    {
+        "id": "isWorking",
+        "itemName": "目前是否在职",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputIsWorking"
+    },
+    {
+        "id": "toWorkTime",
+        "itemName": "预计到岗时间",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 1,
+        "childElementClass": "iconfont icon-jiantou-down",
+        "childElementId": "inputToWorkTime"
+    },
+    {
+        "id": "expectedSalary",
+        "itemName": "期望薪资",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputExpectedSalary"
+    },
+    {
+        "id": "foreignLanguageLevel",
+        "itemName": "外语水平",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputForeignLanguageLevel"
+    },
+    {
+        "id": "computerLevel",
+        "itemName": "计算机水平",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputComputerLevel"
+    },
+    {
+        "id": "educationExperience",
+        "itemName": "教育经历(请至少完整填写一行)",
+        "parentClass": "inputGroup moreHeight",
+        "childElementContainerClass": "inputContainer addHeight",
+        "childElementType": 2,
+        "childElementClass": "educationTable",
+        "childElementId": "inputEducationExperience",
+        "childTableTh": ["时间", "毕业学院", "专业", "详细情况"]
+    },
+    {
+        "id": "workExperience",
+        "itemName": "工作经历(请至少完整填写一行，没有则写无)",
+        "parentClass": "inputGroup moreHeight",
+        "childElementContainerClass": "inputContainer addHeight",
+        "childElementType": 2,
+        "childElementClass": "educationTable",
+        "childElementId": "inputWorkExperience",
+        "childTableTh": ["时间", "公司名称", "职务", "职责"]
+    },
+    {
+        "id": "personalHonor",
+        "itemName": "个人荣誉",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputPersonalHonor"
+    },
+    {
+        "id": "hobby",
+        "itemName": "兴趣特长",
+        "parentClass": "inputGroup",
+        "childElementContainerClass": "inputContainer",
+        "childElementType": 0,
+        "childElementClass": "bottomBorder",
+        "childElementId": "inputHobby"
+    },
+    {
+        "id": "selfEvaluation",
+        "itemName": "自我评价",
+        "parentClass": "inputGroup moreHeight",
+        "childElementContainerClass": "inputContainer expendHeight",
+        "childElementType": 3,
+        "childElementClass": "bottomBorder textArea",
+        "childElementId": "inputSelfEvaluation"
+    }
+]
